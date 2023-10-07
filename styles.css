@@ -1,0 +1,36 @@
+#clearButton{
+    background-color: red;
+    color: white;
+    font-size: large;
+    height: 75px;
+    width: 75px;
+}
+
+#screen{
+    background-color: white;
+    width: 450px;
+    height: 50px;
+    font-size: large;
+}
+
+.sign, #equals{
+    background-color: black;
+    color: white;
+    font-size: large;
+    height: 75px;
+    width: 75px;
+}
+
+.calculator{
+    background-color: grey;
+    border: 2px solid black;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+.num{
+    font-size: large;
+    height: 75px;
+    width: 75px;
+}
